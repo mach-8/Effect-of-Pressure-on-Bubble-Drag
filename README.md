@@ -1,6 +1,6 @@
 # EFFECT OF PRESSURE ON THE DRAG COEFFICIENT OF INDIVIDUAL BUBBLES IN A CONTAMINATED POLYDISPERSE SWARM
 
-This notebook repeats a data analysis that was initially performed in MATLAB.
+This notebook repeats a data analysis that was originally performed in MATLAB.
 
 Raw data files can be made available on request
 
