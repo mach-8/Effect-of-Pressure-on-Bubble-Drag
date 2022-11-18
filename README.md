@@ -1,4 +1,5 @@
-# EFFECT OF PRESSURE ON THE DRAG COEFFICIENT OF INDIVIDUAL BUBBLES IN A CONTAMINATED POLYDISPERSE SWARM
+# Effect of pressure on the drag coefficient of individual bubbles in a contaminated polydisperse swarm
+***
 
 This notebook repeats a data analysis that was originally performed in MATLAB.
 
